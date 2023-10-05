@@ -22,7 +22,7 @@ const Navbar = () => {
 
     return (
         <div className=" bg-base-300">
-            <div className="navbar mb-10 container mx-auto">
+            <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -32,7 +32,7 @@ const Navbar = () => {
                             {navLink}
                         </ul>
                     </div>
-                    <a className="text-2xl font-extrabold">Watch Shop</a>
+                    <a className="text-2xl font-extrabold">Watch Wonders Hub</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex gap-7 px-1">

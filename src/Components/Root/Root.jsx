@@ -5,9 +5,9 @@ import Footer from "../Footer/Footer";
 
 const Root = () => {
     return (
-        <div>
+        <div className=" font-youngSerif">
             <Navbar></Navbar>
-            <div className="container mx-auto font-youngSerif">
+            <div>
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>
