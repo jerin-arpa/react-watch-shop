@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "brand-name": "Rolex",
+        "watch-name": "Oyster Perpetual",
+        "image": "rolex_oyster_perpetual.jpg",
+        "description": "A classic Rolex timepiece known for its elegance and precision.",
+        "review": "Impressive build quality and accurate timekeeping. Definitely a statement piece.",
+        "rating": 4.8,
+        "price": "$5000"
+    },
+    {
+        "id": 2,
+        "brand-name": "Tag Heuer",
+        "watch-name": "Carrera",
+        "image": "tag_heuer_carrera.jpg",
+        "description": "The Carrera collection by Tag Heuer combines style and sportiness in one package.",
+        "review": "Sleek design, comfortable to wear, and reliable performance.",
+        "rating": 4.5,
+        "price": "$3500"
+    },
+    {
+        "id": 3,
+        "brand-name": "Omega",
+        "watch-name": "Seamaster",
+        "image": "omega_seamaster.jpg",
+        "description": "The Seamaster is a classic diver's watch known for its durability and water resistance.",
+        "review": "Exceptional underwater performance and a timeless aesthetic.",
+        "rating": 4.9,
+        "price": "$4500"
+    },
+    {
+        "id": 4,
+        "brand-name": "Patek Philippe",
+        "watch-name": "Calatrava",
+        "image": "patek_philippe_calatrava.jpg",
+        "description": "The Calatrava exemplifies timeless elegance and sophistication.",
+        "review": "Exquisite craftsmanship and a symbol of refined taste.",
+        "rating": 4.9,
+        "price": "$12000"
+    },
+    {
+        "id": 5,
+        "brand-name": "Citizen",
+        "watch-name": "Eco-Drive",
+        "image": "citizen_eco_drive.jpg",
+        "description": "An eco-friendly watch powered by light, with a sleek and modern design.",
+        "review": "Environmentally conscious and reliable daily wear.",
+        "rating": 4.4,
+        "price": "$250"
+    },
+    {
+        "id": 6,
+        "brand-name": "Tissot",
+        "watch-name": "Le Locle",
+        "image": "tissot_le_locle.jpg",
+        "description": "The Le Locle showcases Swiss precision and timeless design at an affordable price.",
+        "review": "Great value for money, accurate movement, and a classic look.",
+        "rating": 4.7,
+        "price": "$800"
+    },
+    {
+        "id": 7,
+        "brand-name": "Seiko",
+        "watch-name": "Prospex",
+        "image": "seiko_prospex.jpg",
+        "description": "A robust and reliable diver's watch by Seiko, perfect for adventurous souls.",
+        "review": "Tough, durable, and built for the great outdoors.",
+        "rating": 4.6,
+        "price": "$400"
+    },
+    {
+        "id": 8,
+        "brand-name": "Fossil",
+        "watch-name": "Grant",
+        "image": "fossil_grant.jpg",
+        "description": "The Grant watch by Fossil combines vintage-inspired design with modern functionality.",
+        "review": "Stylish, versatile, and a great value for a fashion-forward timepiece.",
+        "rating": 4.3,
+        "price": "$150"
+    },
+    {
+        "id": 9,
+        "brand-name": "Casio",
+        "watch-name": "G-Shock",
+        "image": "casio_g_shock.jpg",
+        "description": "A rugged and shock-resistant digital watch suitable for outdoor activities.",
+        "review": "Tough as nails, reliable, and packed with features.",
+        "rating": 4.5,
+        "price": "$100"
+    },
+    {
+        "id": 10,
+        "brand-name": "Bulova",
+        "watch-name": "Precisionist",
+        "image": "bulova_precisionist.jpg",
+        "description": "The Precisionist series offers unparalleled accuracy and a bold, modern design.",
+        "review": "Exceptionally accurate timekeeping and a distinctive look.",
+        "rating": 4.7,
+        "price": "$600"
+    },
+    {
+        "id": 11,
+        "brand-name": "Longines",
+        "watch-name": "Master Collection",
+        "image": "longines_master_collection.jpg",
+        "description": "The Master Collection showcases Longines' tradition of elegance and technical expertise.",
+        "review": "A blend of classic design and high-quality craftsmanship.",
+        "rating": 4.8,
+        "price": "$3500"
+    },
+    {
+        "id": 12,
+        "brand-name": "Hamilton",
+        "watch-name": "Khaki Field",
+        "image": "hamilton_khaki_field.jpg",
+        "description": "A rugged military-inspired watch with a vintage aesthetic, built for adventure.",
+        "review": "Durable, reliable, and a great companion for outdoor activities.",
+        "rating": 4.6,
+        "price": "$600"
+    }
+]
